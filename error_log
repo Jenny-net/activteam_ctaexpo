@@ -1,0 +1,20 @@
+[12-Sep-2025 05:06:36 UTC] PHP Warning:  require_once(/home/ctaexpoc/public_html/public/index.php): Failed to open stream: No such file or directory in /home/ctaexpoc/public_html/server.php on line 21
+[12-Sep-2025 05:06:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ctaexpoc/public_html/public/index.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ctaexpoc/public_html/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ctaexpoc/public_html/server.php on line 21
+[03-Feb-2026 10:06:52 UTC] PHP Warning:  require_once(/home/ctaexpoc/public_html/public/index.php): Failed to open stream: No such file or directory in /home/ctaexpoc/public_html/server.php on line 21
+[03-Feb-2026 10:06:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ctaexpoc/public_html/public/index.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ctaexpoc/public_html/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ctaexpoc/public_html/server.php on line 21
+[03-Feb-2026 15:54:09 UTC] PHP Warning:  require_once(/home/ctaexpoc/public_html/public/index.php): Failed to open stream: No such file or directory in /home/ctaexpoc/public_html/server.php on line 21
+[03-Feb-2026 15:54:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ctaexpoc/public_html/public/index.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ctaexpoc/public_html/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ctaexpoc/public_html/server.php on line 21
+[03-Feb-2026 16:28:52 UTC] PHP Warning:  require_once(/home/ctaexpoc/public_html/public/index.php): Failed to open stream: No such file or directory in /home/ctaexpoc/public_html/server.php on line 21
+[03-Feb-2026 16:28:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ctaexpoc/public_html/public/index.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ctaexpoc/public_html/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ctaexpoc/public_html/server.php on line 21

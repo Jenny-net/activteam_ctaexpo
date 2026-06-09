@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="19px" viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Specs" stroke="none" stroke-width="2" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="HIFI-Desktop-1440px-1a" transform="translate(-670.000000, -245.000000)" fill-rule="nonzero" stroke="#1784EB">
+            <g id="Group-5" transform="translate(0.000000, 226.000000)">
+                <path d="M688.078885,20.6925321 C687.269136,20.2528576 686.340367,20 685.349475,20 C683.60119,20 682.035524,20.7852129 681.001704,22.0164805 C679.962999,20.7852129 678.39881,20 676.64814,20 C675.659633,20 674.732567,20.2528576 673.921001,20.6925321 C672.179757,21.6429587 671,23.4702718 671,25.5702547 C671,26.1714491 671.09926,26.7480181 671.27904,27.2874253 C672.24858,31.5827583 681.001704,37 681.001704,37 C681.001704,37 689.749035,31.5828702 690.719938,27.2874253 C690.899718,26.7480181 691,26.1706655 691,25.5702547 C691,23.4710553 689.820243,21.6443019 688.078885,20.6925321 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

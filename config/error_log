@@ -1,0 +1,12 @@
+[10-Feb-2026 14:52:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ctaexpoc/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ctaexpoc/public_html/config/database.php on line 18
+[10-Feb-2026 14:52:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ctaexpoc/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ctaexpoc/public_html/config/mail.php on line 16
+[10-Feb-2026 15:25:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ctaexpoc/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ctaexpoc/public_html/config/broadcasting.php on line 18

@@ -1,0 +1,1 @@
+<p class="copyright">Copyright &copy; {{ date('Y') }} Ctaexpo. All Rights Reserved.</p>

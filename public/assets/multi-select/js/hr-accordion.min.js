@@ -1,0 +1,6 @@
+//     hr-accordion.js 2.0.0
+//     (c) 2016 Md Hidaytullah Rahmani
+//     hr-accordion may be freely distributed under the MIT license.
+//     For all details and documentation:
+//     https://github.com/hidaytrahman/hr-content-popup
+!function($){"use strict";$.fn.hrAccordion=function(e){var t=$.extend({multiple:!0,title:!0,event:"click",speed:800},e),n,s,a,i,r;n=".hr-accordion-wrapper",s=".accordion-title",a="collapse-icon",i=".each-acc-row",r="active-acc",$(n+" "+s+" span.title").after("<span class="+a+"></span>"),$(i).hasClass(r)&&$("."+r).children().next().show(),0==t.multiple?$(n).on(t.event,s+" span."+a,function(){$(this).parents(i).toggleClass(r),$(this).parents(i).parent().find(".accordion-content").hide(),$(this).parent().next().slideToggle(t.speed),$(this).parents(i).hasClass(r)?($(this).parents(i).parent().find(i).removeClass(r),$(this).parents(i).addClass(r)):($(this).parents(i).removeClass(r),$(this).parents(i).parent().find(".accordion-content").hide())}):$(n).on(t.event,s+" span."+a,function(){$(this).parents(i).toggleClass(r),$(this).parent().next().slideToggle(t.speed)})}}(jQuery);
